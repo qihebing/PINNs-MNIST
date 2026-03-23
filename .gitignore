@@ -1,0 +1,11 @@
+# Data
+data/
+*.mat
+!burgers.mat
+
+# Python
+__pycache__/
+*.pyc
+
+# Weights & Biases
+wandb/
